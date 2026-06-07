@@ -1,0 +1,49 @@
+Date,Category,Account,Amount
+2025-01-31,Assets,Cash,65000
+2025-01-31,Assets,Accounts Receivable,42000
+2025-01-31,Assets,Inventory,30000
+2025-01-31,Assets,Fixed Assets,95000
+2025-01-31,Liabilities,Accounts Payable,26000
+2025-01-31,Liabilities,Short-Term Debt,20000
+2025-01-31,Liabilities,Long-Term Debt,85000
+2025-01-31,Equity,Shareholders Equity,101000
+2025-02-28,Assets,Cash,67000
+2025-02-28,Assets,Accounts Receivable,43000
+2025-02-28,Assets,Inventory,31000
+2025-02-28,Assets,Fixed Assets,95000
+2025-02-28,Liabilities,Accounts Payable,26500
+2025-02-28,Liabilities,Short-Term Debt,21000
+2025-02-28,Liabilities,Long-Term Debt,85000
+2025-02-28,Equity,Shareholders Equity,103500
+2025-03-31,Assets,Cash,69000
+2025-03-31,Assets,Accounts Receivable,45000
+2025-03-31,Assets,Inventory,32000
+2025-03-31,Assets,Fixed Assets,95000
+2025-03-31,Liabilities,Accounts Payable,27000
+2025-03-31,Liabilities,Short-Term Debt,20500
+2025-03-31,Liabilities,Long-Term Debt,85000
+2025-03-31,Equity,Shareholders Equity,106500
+2025-04-30,Assets,Cash,72000
+2025-04-30,Assets,Accounts Receivable,46000
+2025-04-30,Assets,Inventory,33000
+2025-04-30,Assets,Fixed Assets,95000
+2025-04-30,Liabilities,Accounts Payable,27500
+2025-04-30,Liabilities,Short-Term Debt,20000
+2025-04-30,Liabilities,Long-Term Debt,84500
+2025-04-30,Equity,Shareholders Equity,109000
+2025-05-31,Assets,Cash,76000
+2025-05-31,Assets,Accounts Receivable,48000
+2025-05-31,Assets,Inventory,34000
+2025-05-31,Assets,Fixed Assets,95000
+2025-05-31,Liabilities,Accounts Payable,28000
+2025-05-31,Liabilities,Short-Term Debt,19000
+2025-05-31,Liabilities,Long-Term Debt,84500
+2025-05-31,Equity,Shareholders Equity,113500
+2025-06-30,Assets,Cash,80000
+2025-06-30,Assets,Accounts Receivable,50000
+2025-06-30,Assets,Inventory,35000
+2025-06-30,Assets,Fixed Assets,95000
+2025-06-30,Liabilities,Accounts Payable,28500
+2025-06-30,Liabilities,Short-Term Debt,18000
+2025-06-30,Liabilities,Long-Term Debt,84000
+2025-06-30,Equity,Shareholders Equity,118500

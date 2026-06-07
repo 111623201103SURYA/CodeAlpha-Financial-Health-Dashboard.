@@ -1,0 +1,37 @@
+Date,Category,Metric,Amount
+2025-01-31,Revenue,Sales,180000
+2025-01-31,Expense,COGS,72000
+2025-01-31,Expense,Operating Expense,42000
+2025-01-31,Expense,Interest Expense,3200
+2025-01-31,Other,Tax Expense,7100
+2025-01-31,Net,Net Income,29500
+2025-02-28,Revenue,Sales,185000
+2025-02-28,Expense,COGS,74000
+2025-02-28,Expense,Operating Expense,43000
+2025-02-28,Expense,Interest Expense,3100
+2025-02-28,Other,Tax Expense,7300
+2025-02-28,Net,Net Income,32400
+2025-03-31,Revenue,Sales,192000
+2025-03-31,Expense,COGS,76000
+2025-03-31,Expense,Operating Expense,44000
+2025-03-31,Expense,Interest Expense,3000
+2025-03-31,Other,Tax Expense,7500
+2025-03-31,Net,Net Income,36600
+2025-04-30,Revenue,Sales,198000
+2025-04-30,Expense,COGS,78000
+2025-04-30,Expense,Operating Expense,45000
+2025-04-30,Expense,Interest Expense,3000
+2025-04-30,Other,Tax Expense,7700
+2025-04-30,Net,Net Income,37700
+2025-05-31,Revenue,Sales,205000
+2025-05-31,Expense,COGS,81000
+2025-05-31,Expense,Operating Expense,46000
+2025-05-31,Expense,Interest Expense,2900
+2025-05-31,Other,Tax Expense,7900
+2025-05-31,Net,Net Income,40400
+2025-06-30,Revenue,Sales,212000
+2025-06-30,Expense,COGS,83000
+2025-06-30,Expense,Operating Expense,47000
+2025-06-30,Expense,Interest Expense,2800
+2025-06-30,Other,Tax Expense,8100
+2025-06-30,Net,Net Income,43100

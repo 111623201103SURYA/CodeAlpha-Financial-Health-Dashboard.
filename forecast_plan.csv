@@ -1,0 +1,37 @@
+Date,Scenario,Metric,Amount
+2025-01-31,Actual,Sales,180000
+2025-01-31,Budget,Sales,175000
+2025-01-31,Forecast,Sales,182000
+2025-01-31,Actual,Net Income,29500
+2025-01-31,Budget,Net Income,28000
+2025-01-31,Forecast,Net Income,29200
+2025-02-28,Actual,Sales,185000
+2025-02-28,Budget,Sales,178000
+2025-02-28,Forecast,Sales,187000
+2025-02-28,Actual,Net Income,32400
+2025-02-28,Budget,Net Income,29500
+2025-02-28,Forecast,Net Income,32100
+2025-03-31,Actual,Sales,192000
+2025-03-31,Budget,Sales,185000
+2025-03-31,Forecast,Sales,193000
+2025-03-31,Actual,Net Income,36600
+2025-03-31,Budget,Net Income,33000
+2025-03-31,Forecast,Net Income,36500
+2025-04-30,Actual,Sales,198000
+2025-04-30,Budget,Sales,190000
+2025-04-30,Forecast,Sales,199000
+2025-04-30,Actual,Net Income,37700
+2025-04-30,Budget,Net Income,34000
+2025-04-30,Forecast,Net Income,37600
+2025-05-31,Actual,Sales,205000
+2025-05-31,Budget,Sales,198000
+2025-05-31,Forecast,Sales,206000
+2025-05-31,Actual,Net Income,40400
+2025-05-31,Budget,Net Income,36000
+2025-05-31,Forecast,Net Income,40300
+2025-06-30,Actual,Sales,212000
+2025-06-30,Budget,Sales,205000
+2025-06-30,Forecast,Sales,213000
+2025-06-30,Actual,Net Income,43100
+2025-06-30,Budget,Net Income,38000
+2025-06-30,Forecast,Net Income,42900

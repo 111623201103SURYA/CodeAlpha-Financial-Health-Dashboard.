@@ -1,0 +1,43 @@
+Date,Category,Metric,Amount
+2025-01-31,Operating,Net Income,29500
+2025-01-31,Operating,Depreciation,4500
+2025-01-31,Operating,Changes in Working Capital,-1800
+2025-01-31,Investing,Capital Expenditure,-9000
+2025-01-31,Financing,Debt Repayment,-1500
+2025-01-31,Financing,Equity Injection,0
+2025-01-31,Total,Cash Flow,24500
+2025-02-28,Operating,Net Income,32400
+2025-02-28,Operating,Depreciation,4500
+2025-02-28,Operating,Changes in Working Capital,-1400
+2025-02-28,Investing,Capital Expenditure,-9000
+2025-02-28,Financing,Debt Repayment,-1600
+2025-02-28,Financing,Equity Injection,0
+2025-02-28,Total,Cash Flow,28500
+2025-03-31,Operating,Net Income,36600
+2025-03-31,Operating,Depreciation,4500
+2025-03-31,Operating,Changes in Working Capital,-1700
+2025-03-31,Investing,Capital Expenditure,-9000
+2025-03-31,Financing,Debt Repayment,-1600
+2025-03-31,Financing,Equity Injection,0
+2025-03-31,Total,Cash Flow,32900
+2025-04-30,Operating,Net Income,37700
+2025-04-30,Operating,Depreciation,4500
+2025-04-30,Operating,Changes in Working Capital,-1500
+2025-04-30,Investing,Capital Expenditure,-9000
+2025-04-30,Financing,Debt Repayment,-1500
+2025-04-30,Financing,Equity Injection,0
+2025-04-30,Total,Cash Flow,33700
+2025-05-31,Operating,Net Income,40400
+2025-05-31,Operating,Depreciation,4500
+2025-05-31,Operating,Changes in Working Capital,-1600
+2025-05-31,Investing,Capital Expenditure,-9000
+2025-05-31,Financing,Debt Repayment,-1500
+2025-05-31,Financing,Equity Injection,0
+2025-05-31,Total,Cash Flow,34900
+2025-06-30,Operating,Net Income,43100
+2025-06-30,Operating,Depreciation,4500
+2025-06-30,Operating,Changes in Working Capital,-1400
+2025-06-30,Investing,Capital Expenditure,-9000
+2025-06-30,Financing,Debt Repayment,-1500
+2025-06-30,Financing,Equity Injection,0
+2025-06-30,Total,Cash Flow,36600
